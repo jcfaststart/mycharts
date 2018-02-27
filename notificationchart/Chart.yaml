@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Notification service Helm chart for Kubernetes
+name: notificationchart
+version: 0.1.0
